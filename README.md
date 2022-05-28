@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @SkandanC
 - 👀 I’m interested in computational nanotechnology
 - 🌱 I’m currently learning to improve my Python skills
-- 👩‍💻 I contribute to [Simphony](https://github.com/BYUCamachoLab/simphony) and [SiPANN](https://github.com/BYUCamachoLab/SiPANN)
+- 👨‍💻 I contribute to [Simphony](https://github.com/BYUCamachoLab/simphony) and [SiPANN](https://github.com/BYUCamachoLab/SiPANN)
 - ⚒  I am a researcher at CamachoLab in BYU, Utah
 - 📫 How to reach me: via email! (s39chand@uwaterloo.ca)
 

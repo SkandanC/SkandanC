@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/SkandanC/SkandanC)](https://github.com/SkandanC/SkandanC) [![Repos Badge](https://badges.pufler.dev/repos/SkandanC)](https://github.com/SkandanC?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/SkandanC)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/SkandanC/SkandanC)](https://github.com/SkandanC/SkandanC) [![Repos Badge](https://badges.pufler.dev/repos/SkandanC)](https://github.com/SkandanC?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/SkandanC)](https://github.com/SkandanC?tab=commits)
 
 
 

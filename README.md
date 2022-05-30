@@ -15,6 +15,8 @@ My other GitHub account: https://github.com/drinwater
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BYUCamachoLab&repo=simphony)](https://github.com/SkandanC) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BYUCamachoLab&repo=SiPANN)](https://github.com/SkandanC) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gdsfactory&repo=gdsfactory)](https://github.com/SkandanC)
 
+![](https://github-readme-stats.vercel.app/api?username=SkandanC)
+
 <!---
 SkandanC/SkandanC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

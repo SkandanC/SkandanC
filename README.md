@@ -9,6 +9,9 @@
 - ⚒  I am a researcher at CamachoLab in BYU, Utah
 - 📫 How to reach me: via email! (s39chand@uwaterloo.ca)
 
+🏡 [website](https://skandanc.me) **|** 
+📺 [youtube](https://www.youtube.com/channel/UCoRZrHIiIEnO1kQtUOpYAzw)
+
 My other GitHub account: https://github.com/drinwater
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BYUCamachoLab&repo=simphony)](https://github.com/BYUCamachoLab/simphony) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BYUCamachoLab&repo=SiPANN)](https://github.com/BYUCamachoLab/SiPANN) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gdsfactory&repo=gdsfactory)](https://github.com/gdsfactory/gdsfactory)

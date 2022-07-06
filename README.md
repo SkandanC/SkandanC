@@ -9,8 +9,6 @@
 - ⚒  I am a researcher at CamachoLab in BYU, Utah
 - 📫 How to reach me: via email! (s39chand@uwaterloo.ca)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skandanc&label=Profile%20views&color=0e75b6&style=flat" alt="skandanc" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UCoRZrHIiIEnO1kQtUOpYAzw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="watermans" height="30" width="40" /></a>

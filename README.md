@@ -14,8 +14,6 @@
 <a href="https://www.youtube.com/channel/UCoRZrHIiIEnO1kQtUOpYAzw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="watermans" height="30" width="40" /></a>
 </p>
 
-[Personal Website](https://skandanc.me)
-
 ## Languages and Tools
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skandanc&show_icons=true&locale=en&layout=compact" alt="skandanc" /></p>
 
